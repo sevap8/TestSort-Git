@@ -6,7 +6,15 @@ namespace TestGit_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This test new branch!");
+            Console.WriteLine(" Введи какое нибудь число ...");
+
+            int a = int .Parse(Console.ReadLine());
+
+        }
+
+        public static void Meto(int a)
+        {
+            Console.WriteLine("Введенне чилсо " + a);
         }
     }
 }
