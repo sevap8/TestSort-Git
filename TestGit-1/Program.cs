@@ -6,7 +6,7 @@ namespace TestGit_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git");
+            Console.WriteLine("This test new branch!");
         }
     }
 }
